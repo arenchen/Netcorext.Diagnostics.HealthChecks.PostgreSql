@@ -1,5 +1,5 @@
 using Microsoft.Extensions.Diagnostics.HealthChecks;
-using Netcorext.Diagnostics.HealthChecks.Postgresql;
+using Netcorext.Diagnostics.HealthChecks.PostgreSql;
 
 namespace Microsoft.Extensions.DependencyInjection;
 

@@ -1,7 +1,7 @@
 using Microsoft.Extensions.Diagnostics.HealthChecks;
 using Npgsql;
 
-namespace Netcorext.Diagnostics.HealthChecks.Postgresql;
+namespace Netcorext.Diagnostics.HealthChecks.PostgreSql;
 
 public class PostgreSqlHealthChecker : IHealthCheck
 {

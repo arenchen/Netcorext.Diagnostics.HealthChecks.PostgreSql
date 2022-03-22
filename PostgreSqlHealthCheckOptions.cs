@@ -1,4 +1,4 @@
-namespace Netcorext.Diagnostics.HealthChecks.Postgresql;
+namespace Netcorext.Diagnostics.HealthChecks.PostgreSql;
 
 public class PostgreSqlHealthCheckOptions
 {
